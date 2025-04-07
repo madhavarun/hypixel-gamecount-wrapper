@@ -17,3 +17,4 @@ pip install requests
 ```
 
 [Hypixel Developer API Key](https://developer.hypixel.net/)
+Create a file named "KEY.key" in the root directory, storing only the key
