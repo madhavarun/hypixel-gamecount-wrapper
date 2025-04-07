@@ -18,3 +18,6 @@ pip install requests
 
 [Hypixel Developer API Key](https://developer.hypixel.net/)
 Create a file named "KEY.key" in the root directory, storing only the key
+
+## Extra stuff
+Included a sample shell file that checks to see any players online every time it gets run
